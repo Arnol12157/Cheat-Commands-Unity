@@ -2,6 +2,8 @@
 
 Cheat Commands is a Unity tool designed to provide an in-editor and in-game command console, allowing developers and testers to execute methods and manipulate game variables easily. The tool supports both static and non-static methods, with real-time command suggestions and detailed command information.
 
+https://github.com/Arnol12157/Cheat-Commands-Unity/assets/13397644/380a61ab-96cc-4298-bd4a-f88aed598e7c
+
 ## Features
 
 - **Execute Commands Anywhere:** Use the `[Command]` attribute on any method and execute them directly from the editor console or in-game UI.
